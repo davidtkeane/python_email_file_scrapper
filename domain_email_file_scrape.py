@@ -1,3 +1,8 @@
+# This will scrape a single domain and return a list of email addresses.
+# pip install -r requirements.txt
+# This script was made using Visual Code and tested, this way we can see the folders, the code and the terminal making it easy to play with.
+
+
 import csv
 import os
 import tempfile
